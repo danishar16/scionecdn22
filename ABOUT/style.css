@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;600&family=Roboto+Slab:wght@300&display=swap');
+
+body
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+.judul
+{
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    margin-top: -.2em;
+    margin-bottom: -.1em;
+    letter-spacing: .2em;
+}
+
+.subjudul
+{
+    font-family: 'Poppins', sans-serif;
+    word-spacing: .5em;
+    letter-spacing: .3em;
+}
+
+.bawah
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 15vh;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
+
+.card-img-top
+{
+    width: auto;
+}
+
+.card
+{
+    display: flex;
+    justify-content: center;
+}
+
+.row
+{
+    width: 100%;
+    margin-left: 0px;
+
+}
+
+.tent{
+    margin: 30px 10%;
+    display: flex;
+}
+
+.blockquote-footer{
+    align-items: flex-end;
+}
+
+.isitent
+{
+    margin: 10px 25px;
+    text-align: justify;
+}

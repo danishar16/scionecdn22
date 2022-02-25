@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;600&family=Roboto+Slab:wght@300&display=swap');
+
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+.latar
+{
+    width: auto;
+    background: url(/ASSETS/bg.jpeg);
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.judul
+{
+    font-size: 10em;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    margin-top: -.2em;
+    margin-bottom: -.1em;
+    color: #e9ecef;
+}
+
+.sub
+{
+    font-size: 2.3em;
+    font-family: 'Roboto Slab', serif;
+    color: #e9ecef;
+    font-style: italic;
+    letter-spacing: .3em;
+}
